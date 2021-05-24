@@ -1,4 +1,4 @@
-package headfirst.designPatterns.observer.weather;
+package headfirst.designpatterns.observer.weather;
 
 import org.jetbrains.annotations.NotNull;
 

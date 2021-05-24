@@ -1,6 +1,6 @@
-package headfirst.designPatterns.observer.weatherobservable;
+package headfirst.designpatterns.observer.weatherobservable;
 
-import headfirst.designPatterns.observer.weather.DisplayElement;
+import headfirst.designpatterns.observer.weather.DisplayElement;
 
 import java.util.Observable;
 import java.util.Observer;
