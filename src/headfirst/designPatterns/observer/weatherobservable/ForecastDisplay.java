@@ -10,7 +10,7 @@ import java.util.Observable;
 public class ForecastDisplay implements Observer, DisplayElement {
     @Override
     public void update(Observable o, Object arg) {
-        
+
     }
 
     @Override
