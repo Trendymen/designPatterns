@@ -27,9 +27,7 @@ public class SwingObserverExample {
 		button.addActionListener(event ->
 			System.out.println("Come on, do it!")
 		);
-		frame.getContentPane().add(BorderLayout.CENTER, button);
-
-		// Set frame properties 
+		// Set frame properties
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().add(BorderLayout.CENTER, button);
 		frame.setSize(300,300);
